@@ -1,0 +1,6 @@
+## Labels:
+## 0 - adware
+## 1 - banking
+## 2 - riskware
+## 3 - sms
+## 4 - benign

@@ -1,0 +1,1 @@
+{"Ljava/lang/Object;.<init>": 0, "Ljava/lang/StringBuilder;.toString": 5, "Ljava/lang/StringBuilder;.append": 10, "Landroid/app/Activity;.<init>": 15, "Ljava/lang/StringBuilder;.<init>": 20, "Ljava/lang/String;.equals": 25, "Ljava/util/ArrayList;.<init>": 30, "Ljava/util/Iterator;.next": 35, "Ljava/util/Iterator;.hasNext": 40}
